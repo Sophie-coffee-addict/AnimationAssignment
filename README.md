@@ -1,3 +1,7 @@
+Screenshot video of this project:
+
+https://github.com/user-attachments/assets/61151fcb-4756-4ee9-b6ea-67d50b3ac334
+
 Run build: JavaSE 20.0
 
 <img width="486" alt="image" src="https://github.com/Sophie-coffee-addict/AnimationAssignment/assets/141593166/ad1033fc-f2e5-40e6-b34c-de9d63f33d3a">
