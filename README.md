@@ -1,6 +1,10 @@
-Screenshot video of this project:
+Demo video of Bugworld:
 
 https://github.com/user-attachments/assets/61151fcb-4756-4ee9-b6ea-67d50b3ac334
+
+Demo video of NumberGame:
+
+https://github.com/user-attachments/assets/75baa233-c054-4f1f-b4c5-ace3b6f4d969
 
 Run build: JavaSE 20.0
 
